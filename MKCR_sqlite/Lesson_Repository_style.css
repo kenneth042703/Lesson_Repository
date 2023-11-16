@@ -11,7 +11,6 @@ body{
     width: 40vh;
     height: 20vh;
     background-color: rgb(131,75,36);
-    align-items:center;
     box-shadow: 10px 10px 10px rgb(126, 78, 47);
     animation: glow 1s infinite alternate;
 }
