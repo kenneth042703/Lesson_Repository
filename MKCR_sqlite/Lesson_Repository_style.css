@@ -5,7 +5,7 @@ body{
 .startpage{
     transform: translateX(70%);
     margin-top: 100px;
-    padding: 10%;
+    padding: 20px;
     position: relative;
     border-radius: 100px;
     width: 40vh;
