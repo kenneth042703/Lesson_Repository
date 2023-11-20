@@ -1,4 +1,4 @@
-async function show_result(){
+function show_result(){
     const c = document.getElementById("lessonNumOrTitleOrTags").value;
     if (c !== ""){
             const a = document.createElement("button");
